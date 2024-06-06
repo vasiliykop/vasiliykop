@@ -1,4 +1,4 @@
-<h1>Hi, I'm Vasiliy, an <a href="https://linkedin.com/in/Josh">IT Professional</a>☺</h1>
+<h1>Hi, I'm Vasiliy, an <a href="https://https://www.linkedin.com/in/vasiliy-kopolovich-7b4931310/</a>☺</h1>
 
 <h2>👨‍💻 Information Technology Projects:</h2>
 
