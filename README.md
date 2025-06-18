@@ -10,6 +10,8 @@
   - [Configuring Active Directory within Azure VMs](https://github.com/vasiliykop/configure-ad)
   - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/vasiliykop/azure-network-protocols)
 
+ <h2>👨‍💻 Azure Administration:</h2>
+ - [Deploy and Secure a VM in Azure](https://github.com/vasiliykop/Az-Administration)
 <h2>🤳Connect with me:</h2>
 
 [<img align="left" alt="Josh | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
